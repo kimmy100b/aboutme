@@ -1,0 +1,17 @@
+.content {
+  width: 70%;
+  height: 78%;
+  padding: 5px 15% 5px 15%;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+h1 {
+  margin: 0px;
+}
+
+.content__list > p {
+  margin: 0px;
+}
