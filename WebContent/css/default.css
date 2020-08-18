@@ -32,10 +32,3 @@ html {
 ul > a > li {
   box-shadow: 3px 3px 5px grey;
 }
-
-.footer {
-  padding: 0px;
-  background-color: white;
-
-  text-align: center;
-}

@@ -6,16 +6,20 @@
 }
 
 .nav-header__btn {
-  width: 80px;
+  width: 120px;
   margin: 0px 6px;
-  background-color: #8fbbc6;
-  color: #61628d;
+  background-color: var(--blue);
   text-align: center;
   line-height: 40px;
   list-style: none;
 }
 
-.nav-header__link:hover {
+.nav-header__link {
+  color: #61628d;
+  text-decoration: none;
+}
+
+.nav-header__btn:hover {
   cursor: pointer;
 }
 
