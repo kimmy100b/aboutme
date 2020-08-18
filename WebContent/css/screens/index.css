@@ -1,0 +1,38 @@
+.body-content {
+    text-align: center;
+}
+
+.home-content h1 {
+    font-size: x-large;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+
+.home-content,
+.home-btn {
+    margin-bottom: 16px;
+}
+
+.btn__aboutme,
+.btn__photo {
+    width: 120px;
+    height: 100px;
+    line-height: 100px;
+    box-shadow: 3px 3px 5px grey;
+    margin: 0px 16px;
+    list-style: none;
+    background-color: var(--blue);
+    display: inline-block;
+    text-align: center;
+}
+
+.btn__aboutme a,
+.btn__photo a {
+    color: white;
+    text-decoration: none;
+}
+
+.home-img img {
+    width: 50%;
+    height: 50%;
+}
