@@ -1,56 +1,41 @@
 <!DOCTYPE html>
 <html>
-
-<head>
+  <head>
     <meta charset="UTF-8" />
-    <link rel="stylesheet" href="css/default.css" />
-    <link rel="stylesheet" href="css/index.css" />
+    <link rel="stylesheet" href="css/styles.css" />
     <title>메인화면 페이지</title>
-</head>
+  </head>
 
-<body>
-    <header>
-        <ul class="header">
-            <a href="index.html">
-                <li class="header__list home">홈</li>
-            </a>
-            <a href="aboutme.html">
-                <li class="header__list aboutme">자기소개</li>
-            </a>
-            <a href="photo.html">
-                <li class="header__list photo">내사진</li>
-            </a>
-            <a href="http://localhost:8080/aboutme/today">
-                <li class="header__list time">몇시예요</li>
-            </a>
-        </ul>
+  <body>
+    <header class="nav-header">
+      <ul class="nav-header__list">
+        <li class="nav-header__btn"><a href="index.html" class="nav-header__link">홈</a></li>
+        <li class="nav-header__btn"><a href="aboutme.html" class="nav-header__link">자기소개</a></li>
+        <li class="nav-header__btn"><a href="photo.html" class="nav-header__link">내사진</a></li>
+        <li class="nav-header__btn"><a href="http://localhost:8080/aboutme/today" class="nav-header__link">몇시예요</a></li>
+      </ul>
     </header>
 
     <body>
-        <section class="introduce">
-            <h1>웹프론트엔드 개발자~! kimmy</h1>
-            <p>
-                함께 개발하고 같이 성장하고 싶어요<br />대구광역시 달서구 상인동 어딘가 살고 있어요!
-            </p>
-            <ul class="introduce__list">
-                <a href="aboutme.html">
-                    <li class="introduce__list__aboutme" href="aboutme.html">
-                        자기소개
-                    </li>
-                </a>
-                <a href="photo.html">
-                    <li class="introduce__list__photo" href="photo.html">내 사진</li>
-                </a>
-            </ul>
-            <img class="img-map" src="img/map.JPG" />
-        </section>
+      <section class="introduce">
+        <h1>웹프론트엔드 개발자~! kimmy</h1>
+        <p>함께 개발하고 같이 성장하고 싶어요<br />대구광역시 달서구 상인동 어딘가 살고 있어요!</p>
+        <ul class="introduce__list">
+          <a href="aboutme.html">
+            <li class="introduce__list__aboutme" href="aboutme.html">
+              자기소개
+            </li>
+          </a>
+          <a href="photo.html">
+            <li class="introduce__list__photo" href="photo.html">내 사진</li>
+          </a>
+        </ul>
+        <img class="img-map" src="img/map.JPG" />
+      </section>
     </body>
 
     <footer class="footer">
-        <p>
-            study2845@naver.com<br /><a href="https://kimmy100b.github.io">https://kimmy100b.github.io</a
-        >
-      </p>
+      <p>study2845@naver.com<br /><a href="https://kimmy100b.github.io">https://kimmy100b.github.io</a></p>
     </footer>
   </body>
 </html>

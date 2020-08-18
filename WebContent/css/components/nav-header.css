@@ -1,0 +1,24 @@
+.nav-header__list {
+  display: flex;
+  justify-content: flex-end;
+  background-color: white;
+  padding: 15px 6px;
+}
+
+.nav-header__btn {
+  width: 80px;
+  margin: 0px 6px;
+  background-color: #8fbbc6;
+  color: #61628d;
+  text-align: center;
+  line-height: 40px;
+  list-style: none;
+}
+
+.nav-header__link:hover {
+  cursor: pointer;
+}
+
+.nav-header__btn {
+  box-shadow: 3px 3px 5px grey;
+}
