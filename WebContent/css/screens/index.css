@@ -32,6 +32,11 @@
     text-decoration: none;
 }
 
+.btn__aboutme:hover,
+.btn__photo:hover {
+    cursor: pointer;
+}
+
 .home-img img {
     width: 50%;
     height: 50%;
