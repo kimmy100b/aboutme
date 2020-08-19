@@ -1,15 +1,15 @@
-.body-content {
+.index-content {
   text-align: center;
 }
 
-.home-content h1 {
+.index__content h1 {
   font-size: x-large;
   font-weight: 700;
   margin-bottom: 16px;
 }
 
-.home-content,
-.home-btn {
+.index__content,
+.index__btn {
   margin-bottom: 16px;
 }
 
@@ -37,7 +37,7 @@
   cursor: pointer;
 }
 
-.home-img img {
+.index__img img {
   width: 80%;
   height: 50%;
 }
