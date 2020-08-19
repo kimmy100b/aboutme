@@ -1,19 +1,19 @@
 .aboutme-content section {
-  margin: 30px 160px;
-  text-align: left;
+    margin: 30px 160px;
+    text-align: left;
 }
 
 .aboutme__content h1 {
-  font-size: x-large;
-  font-weight: 700;
-  margin: 10px 0px;
+    font-size: x-large;
+    font-weight: 700;
+    margin: 10px 0px;
 }
 
 .aboutme__content p {
-  padding-bottom: 5px;
-  line-height: 150%;
+    padding-bottom: 5px;
+    line-height: 150%;
 }
 
 .aboutme__content a {
-  text-decoration: none;
+    text-decoration: none;
 }
