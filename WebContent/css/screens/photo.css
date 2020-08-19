@@ -1,5 +1,15 @@
+.photo__post {
+  margin: 60px;
+  display: flex;
+}
+
+.photo__post p {
+  line-height: 200%;
+}
+
 .photo__img {
   width: 330px;
-  height: 150px;
+  height: 260px;
   border: 9px #6f7475 solid;
+  margin-right: 50px;
 }
