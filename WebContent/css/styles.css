@@ -8,6 +8,7 @@
 /* Screens */
 @import "screens/index.css";
 @import "screens/aboutme.css";
+@import "screens/photo.css";
 
 body {
   background-color: var(--green);
