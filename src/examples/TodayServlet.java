@@ -24,7 +24,8 @@ public class TodayServlet extends HttpServlet {
   @Override
   protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
     response.setContentType("text/html;charset=UTF-8");
-  	PrintWriter out = response.getWriter();
+    PrintWriter out = response.getWriter();
+    out.println("<link rel="stylesheet" href="../../WebContent/css/screens/today.css" />");
   	out.print("<a href='index.html'>메인화면</a>");
   	String now = LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy/MM/dd hh:mm"));
   	out.print("<h1>현재시간 : ");
