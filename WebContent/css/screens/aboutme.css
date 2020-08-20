@@ -1,20 +1,20 @@
 .aboutme section {
-  height: 200px;
-  margin: 30px 160px;
-  text-align: left;
+    height: 200px;
+    margin: 30px 160px;
+    text-align: left;
 }
 
 h1 {
-  font-size: x-large;
-  font-weight: 700;
-  margin: 10px 0px;
+    font-size: x-large;
+    font-weight: 700;
+    margin: 10px 0px;
 }
 
 p {
-  padding-bottom: 5px;
-  line-height: 150%;
+    padding-bottom: 5px;
+    line-height: 150%;
 }
 
 a {
-  text-decoration: none;
+    text-decoration: none;
 }

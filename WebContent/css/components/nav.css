@@ -1,28 +1,28 @@
 .nav_list {
-  display: flex;
-  justify-content: flex-end;
-  background-color: white;
-  padding: 15px 6px;
+    display: flex;
+    justify-content: flex-end;
+    background-color: white;
+    padding: 15px 6px;
 }
 
 .nav_btn {
-  width: 120px;
-  margin: 0px 6px;
-  background-color: var(--blue);
-  text-align: center;
-  line-height: 40px;
-  list-style: none;
+    width: 120px;
+    margin: 0px 6px;
+    background-color: var(--blue);
+    text-align: center;
+    line-height: 40px;
+    list-style: none;
 }
 
 .nav_link {
-  color: var(--purple);
-  text-decoration: none;
+    color: var(--purple);
+    text-decoration: none;
 }
 
 .nav_btn:hover {
-  cursor: pointer;
+    cursor: pointer;
 }
 
 .nav_btn {
-  box-shadow: 3px 3px 5px grey;
+    box-shadow: 3px 3px 5px grey;
 }

@@ -1,43 +1,43 @@
 .index {
-  text-align: center;
+    text-align: center;
 }
 
 .index_intro h1 {
-  font-size: x-large;
-  font-weight: 700;
-  margin-bottom: 16px;
+    font-size: x-large;
+    font-weight: 700;
+    margin-bottom: 16px;
 }
 
 .index_intro,
 .index_btn {
-  margin-bottom: 16px;
+    margin-bottom: 16px;
 }
 
 .btn_aboutme,
 .btn_photo {
-  width: 120px;
-  height: 100px;
-  line-height: 100px;
-  box-shadow: 3px 3px 5px grey;
-  margin: 0px 16px;
-  list-style: none;
-  background-color: var(--blue);
-  display: inline-block;
-  text-align: center;
+    width: 120px;
+    height: 100px;
+    line-height: 100px;
+    box-shadow: 3px 3px 5px grey;
+    margin: 0px 16px;
+    list-style: none;
+    background-color: var(--blue);
+    display: inline-block;
+    text-align: center;
 }
 
 .btn_aboutme a,
 .btn_photo a {
-  color: white;
-  text-decoration: none;
+    color: white;
+    text-decoration: none;
 }
 
 .btn_aboutme:hover,
 .btn_photo:hover {
-  cursor: pointer;
+    cursor: pointer;
 }
 
 .index_img img {
-  width: 80%;
-  height: 50%;
+    width: 80%;
+    height: 50%;
 }
