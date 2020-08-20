@@ -1,24 +1,19 @@
-.aboutme-content {
-    display: flex;
-    justify-content: space-between;
+.aboutme section {
+  margin: 30px 160px;
+  text-align: left;
 }
 
-.aboutme-content section {
-    margin: 30px 160px;
-    text-align: left;
+h1 {
+  font-size: x-large;
+  font-weight: 700;
+  margin: 10px 0px;
 }
 
-.aboutme__content h1 {
-    font-size: x-large;
-    font-weight: 700;
-    margin: 10px 0px;
+p {
+  padding-bottom: 5px;
+  line-height: 150%;
 }
 
-.aboutme__content p {
-    padding-bottom: 5px;
-    line-height: 150%;
-}
-
-.aboutme__content a {
-    text-decoration: none;
+a {
+  text-decoration: none;
 }

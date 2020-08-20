@@ -1,43 +1,43 @@
-.index-content {
-    text-align: center;
+.index {
+  text-align: center;
 }
 
-.index__content h1 {
-    font-size: x-large;
-    font-weight: 700;
-    margin-bottom: 16px;
+.index_intro h1 {
+  font-size: x-large;
+  font-weight: 700;
+  margin-bottom: 16px;
 }
 
-.index__content,
-.index__btn {
-    margin-bottom: 16px;
+.index_intro,
+.index_btn {
+  margin-bottom: 16px;
 }
 
-.btn__aboutme,
-.btn__photo {
-    width: 120px;
-    height: 100px;
-    line-height: 100px;
-    box-shadow: 3px 3px 5px grey;
-    margin: 0px 16px;
-    list-style: none;
-    background-color: var(--blue);
-    display: inline-block;
-    text-align: center;
+.btn_aboutme,
+.btn_photo {
+  width: 120px;
+  height: 100px;
+  line-height: 100px;
+  box-shadow: 3px 3px 5px grey;
+  margin: 0px 16px;
+  list-style: none;
+  background-color: var(--blue);
+  display: inline-block;
+  text-align: center;
 }
 
-.btn__aboutme a,
-.btn__photo a {
-    color: white;
-    text-decoration: none;
+.btn_aboutme a,
+.btn_photo a {
+  color: white;
+  text-decoration: none;
 }
 
-.btn__aboutme:hover,
-.btn__photo:hover {
-    cursor: pointer;
+.btn_aboutme:hover,
+.btn_photo:hover {
+  cursor: pointer;
 }
 
-.index__img img {
-    width: 80%;
-    height: 50%;
+.index_img img {
+  width: 80%;
+  height: 50%;
 }
