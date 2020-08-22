@@ -15,34 +15,27 @@
 
 # 개발 기간
 
-2020.08.
+2020.08.17 - 2020.08.21(5일)
 <br/>
 <br/>
 
 # 개발 환경
 
-- 개발환경 : Windows 10 Enterprise x64, JDK 1.8, tomcat 8.5
-- 개발도구 : vscode, Github, Eclipse
-- 개발언어 : HTML, CSS, JSP
-  <br/>
-  <br/>
+-   개발환경 : Windows 10 Enterprise x64, JDK 1.8, tomcat 8.5
+-   개발도구 : vscode, Github, Eclipse
+-   개발언어 : HTML, CSS, JSP
+    <br/>
+    <br/>
 
-# 실행 스크린 샷
+# 실행 영상
 
-<!-- ![](./main1.JPG)
-메인 페이지 입니다.
-
-<br/><br/>
-
-![](./main2.JPG)
-이름 입력했을 때 페이지 입니다.
-
-<br/><br/>
-
-![](./main3.JPG)
-todo list 입력했을 때 페이지 입니다. -->
+<https://www.youtube.com/watch?v=3LvH707iqw0>
 
 <br/>
 <br/>
 
 # 프로젝트 코드 리뷰
+
+[BE코드리뷰](https://kimmy100b.github.io/codereview/2020/08/18/edwith-codereview/#)
+[FE코드리뷰1](https://kimmy100b.github.io/codereview/2020/08/20/edwith-codereview/#)
+[FE코드리뷰2](https://kimmy100b.github.io/codereview/2020/08/22/edwith-codereview/#)
