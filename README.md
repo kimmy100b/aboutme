@@ -36,6 +36,6 @@
 
 # 프로젝트 코드 리뷰
 
-[BE코드리뷰](https://kimmy100b.github.io/codereview/2020/08/18/edwith-codereview/#)
-[FE코드리뷰1](https://kimmy100b.github.io/codereview/2020/08/20/edwith-codereview/#)
-[FE코드리뷰2](https://kimmy100b.github.io/codereview/2020/08/22/edwith-codereview/#)
+- [BE코드리뷰](https://kimmy100b.github.io/codereview/2020/08/18/edwith-codereview/#)
+- [FE코드리뷰1](https://kimmy100b.github.io/codereview/2020/08/20/edwith-codereview/#)
+- [FE코드리뷰2](https://kimmy100b.github.io/codereview/2020/08/22/edwith-codereview/#)
